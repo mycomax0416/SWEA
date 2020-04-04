@@ -13,4 +13,4 @@ for _ in range(T):
             if test == num:
                 ans.append(num)
 
-    print('{} \n{}'.format(t, ' '.join(ans)))
+    print('{}\n{}'.format(t, ' '.join(ans)))
